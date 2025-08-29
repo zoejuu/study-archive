@@ -2,7 +2,7 @@
 _A curated archive of my academic journey, professional certification studies, and hands-on cybersecurity labs._
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 ![Made%20with-Markdown-1f425f.svg](https://img.shields.io/badge/made%20with-Markdown-lightgrey)
 
 > ### <p align="center"> *"Once you stop learning, you start dying."* </p>
